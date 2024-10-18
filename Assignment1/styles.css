@@ -1,0 +1,17 @@
+ body{
+            background-color: #F08080;
+            font-family: "Times New Roman";
+
+        }
+        h1{
+            color: black;
+        }
+        .styled-button{
+            background-color: olive;
+            border: none;
+            text-decoration: none;
+            cursor: pointer;
+        }
+        .styled-button:hover{
+            background-color: blue;
+        }
